@@ -1,0 +1,22 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+
+body{
+    background-image: url("../image/lightImage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.title{
+    /* height: 100vh; */
+    border-radius: 10px;
+}
+.title{
+    font-size:45px;
+    text-decoration: underline;
+    color:#df175a;
+}
